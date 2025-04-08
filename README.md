@@ -6,9 +6,9 @@
   <img align="center" src="./Alexander Clarke.png" />
 </picture>
 
-I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experience spanning **HealthTech** and **People Analytics**, augmented by recent intensive development in **AI/ML** and **end-to-end MLOps practices**.
+I'm a Data Scientist with 9 years of experience in analytical roles within **HealthTech** and **People Analytics**, applying data analysis, modelling, Python and SQL. Specialising in MLOps practices and building production ML pipelines.
 
-🌱 My passion lies in leveraging data to understand complex systems, drive measurable impact, and contribute to meaningful solutions, particularly at the intersection of technology, environmental sustainability, and healthcare equity.
+🌱 My passion lies in understanding complex systems through data, driving measurable impact, and contributing to meaningful solutions, particularly at the intersection of technology, environmental sustainability, and healthcare equity.
 
 🚀 I architect data-driven solutions using **Python**, **SQL**, **GCP**, and modern MLOps tooling (**MLflow, Docker, CI/CD**) to build reliable, scalable, and interpretable machine learning systems.
 
@@ -18,9 +18,9 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 
 *   Building and deploying robust, production-ready **MLOps pipelines**.
 *   Applying **interpretable ML (SHAP)** and exploring **causal inference** techniques for deeper insights.
-*   Developing expertise in cloud-native ML on **Google Cloud Platform (GCP)**.
+*   Deepening expertise in cloud-native ML on **Google Cloud Platform (GCP)**.
 *   Contributing to projects involving **geospatial analysis** and **healthcare data**.
-*   Continuously learning about **Responsible AI** principles and **LLM/RAG** applications.
+*   Applying Responsible AI principles and exploring LLM/RAG applications.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 
 *   **Languages & Databases:**
     *   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    *   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) (Advanced Queries, BigQuery, PostgreSQL/SQL Server exposure)
+    *   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) (Advanced Queries, BigQuery, PostgreSQL)
 *   **ML & Data Analysis:**
     *   ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
     *   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -40,7 +40,7 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
     *   ![MLflow](https://img.shields.io/badge/MLflow-019FEA?style=flat-square&logo=mlflow&logoColor=white)
     *   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
     *   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-    *   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) (CI/CD Concepts)
+    *   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) CI/CD (GitHub Actions)
     *   (Monitoring Strategy Design)
 *   **Geospatial Analysis:**
     *   ![GeoPandas](https://img.shields.io/badge/GeoPandas-146842?style=flat-square)
@@ -62,7 +62,7 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 <tr>
 <td width="50%" valign="top">
   <h3>🏥 MIMIC Readmission Prediction & MLOps PoC</h3>
-  <p>Enterprise-ready MLOps pipeline PoC using MIMIC-III Demo data for 30-day hospital readmission prediction. Focuses on reproducibility, scalability, and best practices.</p>
+  <p>Enterprise-ready MLOps pipeline PoC using MIMIC-III Demo data for 30-day hospital readmission prediction, demonstrating a robust pipeline with a focus on reproducibility, scalability, and best practices.</p>
   <p>
     <a href="https://github.com/ACl365/MIMIC_demo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
     <a href="https://alexander-clarke.com/MIMIC-demo/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
@@ -71,7 +71,7 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 </td>
 <td width="50%" valign="top">
   <h3>🌍 Environmental Justice & Health Inequalities Analysis</h3>
-  <p>Analysed environmental injustice in England, linking pollution & deprivation to health outcomes using geospatial & statistical methods to inform targeted policy.</p>
+  <p>Analysed environmental injustice in England, linking pollution & deprivation to health outcomes using geospatial & statistical methods to inform targeted policy, identifying key areas for intervention.</p>
   <p>
     <a href="https://github.com/ACl365/england-environmental-justice-analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
     <a href="https://alexander-clarke.com/england-environmental-justice-analysis/" target="_blank"><img src="https://img.shields.io/badge/Project-Showcase-brightgreen?style=flat-square"></a>
@@ -83,16 +83,6 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 
 ---
 
-### 📊 GitHub Stats:
-
-<!-- Replace 'YourUsername' with 'ACl365'. You can customize themes! https://github.com/anuraghazra/github-readme-stats -->
-[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACl365&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACl365&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-*(Note: Stats may take a few hours to update after initial setup)*
-
----
-
 ### 📫 How to Reach Me:
 
 *   Check out my Portfolio: **[alexander-clarke.com](https://alexander-clarke.com/)**
@@ -100,3 +90,11 @@ I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experie
 *   Feel free to browse my repositories!
 
 ---
+
+### 📊 GitHub Stats:
+
+<!-- Replace 'YourUsername' with 'ACl365'. You can customise themes! https://github.com/anuraghazra/github-readme-stats -->
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACl365&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACl365&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*(Note: Stats may take a few hours to update after initial setup)*
