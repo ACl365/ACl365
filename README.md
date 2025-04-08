@@ -67,7 +67,7 @@ I'm a Data Scientist with 9 years of experience in analytical roles within **Hea
     <a href="https://github.com/ACl365/MIMIC_demo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
     <a href="https://alexander-clarke.com/MIMIC-demo/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
   </p>
-  <p><sub><strong>Tech:</strong> Python, Scikit-learn, SMOTE, MLflow, Docker, FastAPI, Streamlit, SHAP, CI/CD Concepts</sub></p>
+  <p><sub><strong>Tech:</strong> Python, Scikit-learn, SMOTE, MLflow, Docker, FastAPI, Streamlit, SHAP, GitHub Actions</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3>🌍 Environmental Justice & Health Inequalities Analysis</h3>
