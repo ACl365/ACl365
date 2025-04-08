@@ -1,0 +1,102 @@
+# Hi there, I'm Alexander Clarke 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Alexander Clarke.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Alexander Clarke.png">
+  <img align="center" src="./Alexander Clarke.png" />
+</picture>
+
+I'm a Data Scientist and aspiring ML Engineer with 9 years of analytical experience spanning **HealthTech** and **People Analytics**, augmented by recent intensive development in **AI/ML** and **end-to-end MLOps practices**.
+
+🌱 My passion lies in leveraging data to understand complex systems, drive measurable impact, and contribute to meaningful solutions, particularly at the intersection of technology, environmental sustainability, and healthcare equity.
+
+🚀 I architect data-driven solutions using **Python**, **SQL**, **GCP**, and modern MLOps tooling (**MLflow, Docker, CI/CD**) to build reliable, scalable, and interpretable machine learning systems.
+
+---
+
+### 👨‍💻 What I'm Currently Focused On:
+
+*   Building and deploying robust, production-ready **MLOps pipelines**.
+*   Applying **interpretable ML (SHAP)** and exploring **causal inference** techniques for deeper insights.
+*   Developing expertise in cloud-native ML on **Google Cloud Platform (GCP)**.
+*   Contributing to projects involving **geospatial analysis** and **healthcare data**.
+*   Continuously learning about **Responsible AI** principles and **LLM/RAG** applications.
+
+---
+
+### 🛠️ Technical Skillset:
+
+*   **Languages & Databases:**
+    *   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    *   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) (Advanced Queries, BigQuery, PostgreSQL/SQL Server exposure)
+*   **ML & Data Analysis:**
+    *   ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+    *   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+    *   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+    *   ![Statsmodels](https://img.shields.io/badge/Statsmodels-D3D3D3?style=flat-square)
+    *   (Predictive Modeling, Statistical Modeling, Clustering, Feature Engineering, Time-Series, Experimentation, SHAP, Causal Inference Concepts - PSM, SMOTE)
+*   **Cloud & MLOps:**
+    *   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) (BigQuery, Cloud Storage)
+    *   ![MLflow](https://img.shields.io/badge/MLflow-019FEA?style=flat-square&logo=mlflow&logoColor=white)
+    *   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+    *   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+    *   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) (CI/CD Concepts)
+    *   (Monitoring Strategy Design)
+*   **Geospatial Analysis:**
+    *   ![GeoPandas](https://img.shields.io/badge/GeoPandas-146842?style=flat-square)
+    *   ![PySAL](https://img.shields.io/badge/PySAL-D3D3D3?style=flat-square) (Spatial Statistics)
+*   **BI & Visualization:**
+    *   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+    *   ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+    *   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+    *   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+    *   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+    *   (Matplotlib, Seaborn)
+*   **Other Tools:** Git, GitHub, Excel (Advanced)
+
+---
+
+### ✨ Featured Projects:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>🏥 MIMIC Readmission Prediction & MLOps PoC</h3>
+  <p>Enterprise-ready MLOps pipeline PoC using MIMIC-III Demo data for 30-day hospital readmission prediction. Focuses on reproducibility, scalability, and best practices.</p>
+  <p>
+    <a href="https://github.com/ACl365/MIMIC_demo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
+    <a href="https://alexander-clarke.com/MIMIC-demo/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
+  </p>
+  <p><sub><strong>Tech:</strong> Python, Scikit-learn, SMOTE, MLflow, Docker, FastAPI, Streamlit, SHAP, CI/CD Concepts</sub></p>
+</td>
+<td width="50%" valign="top">
+  <h3>🌍 Environmental Justice & Health Inequalities Analysis</h3>
+  <p>Analysed environmental injustice in England, linking pollution & deprivation to health outcomes using geospatial & statistical methods to inform targeted policy.</p>
+  <p>
+    <a href="https://github.com/ACl365/england-environmental-justice-analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
+    <a href="https://alexander-clarke.com/england-environmental-justice-analysis/" target="_blank"><img src="https://img.shields.io/badge/Project-Showcase-brightgreen?style=flat-square"></a>
+  </p>
+  <p><sub><strong>Tech:</strong> Python, GeoPandas, PySAL, Scikit-learn, Statsmodels (PSM), SHAP, Plotly</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats:
+
+<!-- Replace 'YourUsername' with 'ACl365'. You can customize themes! https://github.com/anuraghazra/github-readme-stats -->
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACl365&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACl365&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*(Note: Stats may take a few hours to update after initial setup)*
+
+---
+
+### 📫 How to Reach Me:
+
+*   Check out my Portfolio: **[alexander-clarke.com](https://alexander-clarke.com/)**
+*   Connect with me on **[LinkedIn](https://www.linkedin.com/in/alexander-clarke-data/)**
+*   Feel free to browse my repositories!
+
+---
