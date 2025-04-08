@@ -74,7 +74,7 @@ I'm a Data Scientist with 9 years of experience in analytical roles within **Hea
   <p>Analysed environmental injustice in England, linking pollution & deprivation to health outcomes using geospatial & statistical methods to inform targeted policy, identifying key areas for intervention.</p>
   <p>
     <a href="https://github.com/ACl365/england-environmental-justice-analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
-    <a href="https://alexander-clarke.com/england-environmental-justice-analysis/" target="_blank"><img src="https://img.shields.io/badge/Project-Showcase-brightgreen?style=flat-square"></a>
+    <a href="https://alexander-clarke.com/england-environmental-justice-analysis/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
   </p>
   <p><sub><strong>Tech:</strong> Python, GeoPandas, PySAL, Scikit-learn, Statsmodels (PSM), SHAP, Plotly</sub></p>
 </td>
