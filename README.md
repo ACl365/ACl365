@@ -93,8 +93,7 @@ I'm a Data Scientist with 9 years of experience in analytical roles within **Hea
 
 ### 📊 GitHub Stats:
 
-<!-- Replace 'YourUsername' with 'ACl365'. You can customise themes! https://github.com/anuraghazra/github-readme-stats -->
+
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACl365&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACl365&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-*(Note: Stats may take a few hours to update after initial setup)*
