@@ -1,94 +1,58 @@
 # Hi there, I'm Alexander Clarke 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Alexander Clarke.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Alexander Clarke.png">
-  <img align="center" src="./Alexander Clarke.png" />
-</picture>
+I'm an **Automation Engineer** who fixes broken no-code and builds production-grade Python systems that don't break at 3am.
 
-I'm a Data Scientist with 9 years of experience in analytical roles within **HealthTech** and **People Analytics**, applying data analysis, modelling, Python and SQL. Specialising in MLOps practices and building production ML pipelines.
+Most "AI automation" fails within weeks. I build systems that run reliably for years.
 
-🌱 My passion lies in understanding complex systems through data, driving measurable impact, and contributing to meaningful solutions, particularly at the intersection of technology, environmental sustainability, and healthcare equity.
+## 🛠️ What I Do
 
-🚀 I architect data-driven solutions using **Python**, **SQL**, **GCP**, and modern MLOps tooling (**MLflow, Docker, CI/CD**) to build reliable, scalable, and interpretable machine learning systems.
+- **No-Code Rescue & Migration** — Audit fragile Zapier/Make/n8n stacks, rebuild critical workflows in deterministic Python
+- **Property Management Automation** — Tenant comms, rent collection, maintenance routing, owner reporting
+- **AI Agent Development** — Production-ready agents with circuit breakers, idempotency, and proper error handling
 
----
+## 🎯 Results
 
-### 👨‍💻 What I'm Currently Focused On:
+- 60% cost reduction on workflow migrations (same functionality, fraction of the overhead)
+- 150+ n8n workflows hardened across 40+ client implementations
+- Property intelligence systems surfacing £500k+ deals before they hit the market
 
-*   Building and deploying robust, production-ready **MLOps pipelines**.
-*   Applying **interpretable ML (SHAP)** and exploring **causal inference** techniques for deeper insights.
-*   Deepening expertise in cloud-native ML on **Google Cloud Platform (GCP)**.
-*   Contributing to projects involving **geospatial analysis** and **healthcare data**.
-*   Applying Responsible AI principles and exploring LLM/RAG applications.
+## 💻 Tech Stack
 
----
+**Automation & Integration:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
 
-### 🛠️ Technical Skillset:
+**AI & LLMs:**
+![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-*   **Languages & Databases:**
-    *   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    *   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) (Advanced Queries, BigQuery, PostgreSQL)
-*   **ML & Data Analysis:**
-    *   ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-    *   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-    *   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-    *   ![Statsmodels](https://img.shields.io/badge/Statsmodels-D3D3D3?style=flat-square)
-    *   (Predictive Modeling, Statistical Modeling, Clustering, Feature Engineering, Time-Series, Experimentation, SHAP, Causal Inference Concepts - PSM, SMOTE)
-*   **Cloud & MLOps:**
-    *   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) (BigQuery, Cloud Storage)
-    *   ![MLflow](https://img.shields.io/badge/MLflow-019FEA?style=flat-square&logo=mlflow&logoColor=white)
-    *   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-    *   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-    *   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) CI/CD (GitHub Actions)
-    *   (Monitoring Strategy Design)
-*   **Geospatial Analysis:**
-    *   ![GeoPandas](https://img.shields.io/badge/GeoPandas-146842?style=flat-square)
-    *   ![PySAL](https://img.shields.io/badge/PySAL-D3D3D3?style=flat-square) (Spatial Statistics)
-*   **BI & Visualization:**
-    *   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-    *   ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-    *   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-    *   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-    *   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-    *   (Matplotlib, Seaborn)
-*   **Other Tools:** Git, GitHub, Excel (Advanced)
+**Infrastructure:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-000000?style=flat-square)
 
----
+## 📦 Free Resources
 
-### ✨ Featured Projects:
+- **n8n Production Hardening Kit** — 11 battle-tested workflow templates + 30-point reliability checklist
+- **AI Agent Debugging Framework** — Stop guessing why your agents fail. Debug systematically.
+- **Cold Email Deliverability System** — Infrastructure patterns for agencies sending at scale
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <h3>🏥 MIMIC Readmission Prediction & MLOps PoC</h3>
-  <p>Enterprise-ready MLOps pipeline PoC using MIMIC-III Demo data for 30-day hospital readmission prediction, demonstrating a robust pipeline with a focus on reproducibility, scalability, and best practices.</p>
-  <p>
-    <a href="https://github.com/ACl365/MIMIC_demo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
-    <a href="https://alexander-clarke.com/MIMIC-demo/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
-  </p>
-  <p><sub><strong>Tech:</strong> Python, Scikit-learn, SMOTE, MLflow, Docker, FastAPI, Streamlit, SHAP, GitHub Actions</sub></p>
-</td>
-<td width="50%" valign="top">
-  <h3>🌍 Environmental Justice & Health Inequalities Analysis</h3>
-  <p>Analysed environmental injustice in England, linking pollution & deprivation to health outcomes using geospatial & statistical methods to inform targeted policy, identifying key areas for intervention.</p>
-  <p>
-    <a href="https://github.com/ACl365/england-environmental-justice-analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
-    <a href="https://alexander-clarke.com/england-environmental-justice-analysis/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square"></a>
-  </p>
-  <p><sub><strong>Tech:</strong> Python, GeoPandas, PySAL, Scikit-learn, Statsmodels (PSM), SHAP, Plotly</sub></p>
-</td>
-</tr>
-</table>
+## 🚀 Currently Working On
+
+- Agentic workflow systems for lead generation
+- Property intelligence automation
+- Productized no-code rescue frameworks
+
+## 📫 Get In Touch
+
+- 🌐 Portfolio: [alexander-clarke.com](https://alexander-clarke.com/)
+- 💼 LinkedIn: [linkedin.com/in/alexanderclarke-ai](https://www.linkedin.com/in/alexanderclarke-ai/)
+- 📧 Book a free 15-min diagnostic call
 
 ---
 
-### 📫 How to Reach Me:
-
-*   Check out my Portfolio: **[alexander-clarke.com](https://alexander-clarke.com/)**
-*   Connect with me on **[LinkedIn](https://www.linkedin.com/in/alexander-clarke-data/)**
-*   Feel free to browse my repositories!
-
----
-
-
+📍 London, UK • Python + no-code hybrid specialist
