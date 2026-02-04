@@ -49,7 +49,7 @@ Most "AI automation" fails within weeks. I build systems that run reliably for y
 
 ## 📫 Get In Touch
 
-- 🌐 Portfolio: [alexander-clarke.com](https://alexander-clarke.com/)
+- 🌐 Website: [alexander-clarke.com](https://alexander-clarke.com/)
 - 💼 LinkedIn: [linkedin.com/in/alexanderclarke-ai](https://www.linkedin.com/in/alexanderclarke-ai/)
 - 📧 Book a free 15-min diagnostic call (https://calendly.com/alex-alexander-clarke/15min)
 
